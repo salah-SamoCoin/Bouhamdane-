@@ -1,0 +1,1 @@
+samocoin-landing
